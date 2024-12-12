@@ -26,15 +26,15 @@ https://img.shields.io/badge/Maven-green?style=plastic
 2. [Pré-requisitos para desenvolvimento](#-preRequisitosDesenvolvimento)
 
 
-3. [Swagger](#-swagger)
+3. [Swagger](#swagger)
 
-4. [Testes Unitários](#-testes)
+4. [Testes Unitários](#testes)
 
-5. [Build](#-build)
+5. [Build](#build)
 
-6. [Execução Local](#-execucaoLocal)
+6. [Execução Local](#execucaoLocal)
 
-7. [Acessando Aplicação](#-acessandoAplicacao)
+7. [Acessando Aplicação](#acessandoAplicacao)
 
 ## Documentation
 ## Principais
@@ -82,7 +82,7 @@ https://code.visualstudio.com/download
 
 <a name="swagger"></a>
 
-### Swagger
+## Swagger
 
 - Link da interface gráfica da aplicação para o Swagger UI no ambiente
 
@@ -92,7 +92,7 @@ http://localhost:8080/swagger-ui/
 
 <a name="testes"></a>
 
-### Testes Unitários
+## Testes Unitários
 
 Teste de unidade é a fase do teste de software em que os módulos são testados individualmente.
 
@@ -105,7 +105,7 @@ Para executar os testes, realize o comando
 
 <a name="build"></a>
 
-### Build
+## Build
 
 Execute 
 `mvn clean install`
@@ -121,7 +121,7 @@ mvn clean install
 
 <a name="execucaoLocal"></a>
 
-### Execução local
+## Execução local
 
 - É possível subir a aplicação utilizando o próprio Maven. É útil para testes de desenvolvimento onde é necessário uma agilidade maior
 
@@ -147,7 +147,7 @@ java -jar target/desafio-account.jar
 
 <a name="acessandoAplicacao"></a>
 
-### Acessando Aplicação
+## Acessando Aplicação
 
 Verifique qual o host a app está acessivel, localmente é usado o endereço 
 `http://localhost:8080/`
