@@ -20,9 +20,11 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 ### ÍNDICE
 :books: [Documentation](#documentation)
-1. Principais caracterísitas e responsabilidades deste artefato [Principais](#principais-caracteristicas-responsabilidade)
+1. Principais caracterísitas e responsabilidades deste artefato [Principais](#principais)
 
+:books: [Requisitos](#requisitos)
 2. [Pré-requisitos para desenvolvimento](#-preRequisitosDesenvolvimento)
+
 
 3. [Swagger](#-swagger)
 
@@ -49,6 +51,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 <a name="preRequisitosDesenvolvimento"></a>
 
+## Requisitos
 ### Pré-requisitos para desenvolvimento
 
 - Possuir o [git](
