@@ -20,7 +20,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 ### ÍNDICE
 
-1. [Principais caracterísitas e responsabilidades deste artefato](#-principaisCaracteristicasResponsabilidade)
+1. Principais caracterísitas e responsabilidades deste artefato [Principais](#principais-caracteristicas-responsabilidade)
 
 2. [Pré-requisitos para desenvolvimento](#-preRequisitosDesenvolvimento)
 
@@ -34,11 +34,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 7. [Acessando Aplicação](#-acessandoAplicacao)
 
-   
-
-<a name="principaisCaracteristicasResponsabilidade"></a>
-
-## Principais caracterísitas e responsabilidades deste artefato 
+## Principais
 
 - Api que possui endpoints para as seguintes funcionalidades:
 	- Cadastro de conta do cliente.
