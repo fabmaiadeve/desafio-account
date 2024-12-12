@@ -21,6 +21,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 ### ÍNDICE
 :books: [Documentation](#documentation)
 1. Principais caracterísitas e responsabilidades deste artefato [Principais](#principais)
+1.1 [Principais caracterísitas e responsabilidades deste artefato](#principais-caracterísitas-e-responsabilidades-deste-artefato) 
 
 :books: [Requisitos](#requisitos)
 2. [Pré-requisitos para desenvolvimento](#-preRequisitosDesenvolvimento)
@@ -37,6 +38,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 7. [Acessando Aplicação](#acessandoAplicacao)
 
 ## Documentation
+## Principais caracterísitas e responsabilidades deste artefato 
 ## Principais
 
 - Api que possui endpoints para as seguintes funcionalidades:
