@@ -23,7 +23,7 @@ https://img.shields.io/badge/Maven-green?style=plastic
 1. [Principais caracterísitas e responsabilidades deste artefato](#principais-caracterísitas-e-responsabilidades-deste-artefato) 
 
 :books: [Requisitos](#requisitos)
-2. [Pré-requisitos para desenvolvimento](#pre-requisitos-para-desenvolvimento)
+2. [Pré requisitos para desenvolvimento](#pré-requisitos-para-desenvolvimento)
 
 
 3. [Swagger](#swagger)
