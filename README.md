@@ -20,11 +20,10 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 ### ÍNDICE
 :books: [Documentation](#documentation)
-1. Principais caracterísitas e responsabilidades deste artefato [Principais](#principais)
-1.1 [Principais caracterísitas e responsabilidades deste artefato](#principais-caracterísitas-e-responsabilidades-deste-artefato) 
+1. [Principais caracterísitas e responsabilidades deste artefato](#principais-caracterísitas-e-responsabilidades-deste-artefato) 
 
 :books: [Requisitos](#requisitos)
-2. [Pré-requisitos para desenvolvimento](#-preRequisitosDesenvolvimento)
+2. [Pré-requisitos para desenvolvimento](#-pre-requisitos-desenvolvimento)
 
 
 3. [Swagger](#swagger)
@@ -39,7 +38,6 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 ## Documentation
 ## Principais caracterísitas e responsabilidades deste artefato 
-## Principais
 
 - Api que possui endpoints para as seguintes funcionalidades:
 	- Cadastro de conta do cliente.
@@ -51,10 +49,10 @@ https://img.shields.io/badge/Maven-green?style=plastic
 
 ---
 
-<a name="preRequisitosDesenvolvimento"></a>
+
 
 ## Requisitos
-### Pré-requisitos para desenvolvimento
+## Pré-requisitos para desenvolvimento
 
 - Possuir o [git](
 https://git-scm.com/
